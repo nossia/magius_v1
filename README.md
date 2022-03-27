@@ -11,6 +11,7 @@ Dans la ville, certaines maison et certains magasins sont accessible, c'est-à-d
 Afin de jouer, vous aurez besoin d'un interpréteur python (par exemple thonny) et un interpreteur pour les fichier tmx (ex: paint). Vous devez également installer les librairies utilisées (pygame, pyscroll et pytmx).
 Vous devez ensuite télécharger les fichiers disponible juste au dessus. 
 
+Vous pouvez télécharger chaque fichier afin de les étudier ou vous pouvez téléchager la version zip ("projet.zip").
 
 
 
